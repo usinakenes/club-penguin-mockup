@@ -1,2 +1,3 @@
 # club-penguin-mockup
-not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin not-so-clubpenguin
+
+Funny litte Club Penguin mockup i made for my friend. Available at https://editor.p5js.org/usinakenes1907/full/z8vWR83C9
